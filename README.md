@@ -1,1 +1,1 @@
-# applied-ai-with-llama-and-next
+# Applied AI with Llama and Next
