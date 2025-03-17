@@ -1,1 +1,1 @@
-# Applied AI with Llama and Next
+# Applied Fullstack AI
